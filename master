@@ -1,2 +1,5 @@
 timeout: 30
 auto_accept: True
+file_roots:
+  base:
+    - /etc/salt/states
