@@ -1,5 +1,6 @@
 timeout: 30
 auto_accept: True
+presence_events: True
 file_roots:
   base:
     - /etc/salt/states
