@@ -1,2 +1,2 @@
 timeout: 30
-open_mode: False
+auto_accept: True
