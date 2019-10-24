@@ -1,6 +1,1 @@
 timeout: 30
-fileserver_backend:
-  - gitfs
-gitfs_remotes:
-  - https://github.com/camposdelima/slsandbox.git
-gitfs_provider: gitpython
